@@ -70,7 +70,7 @@
 
 
         let layer01 = new GeoJSONLayer({
-          url: "https://raw.githubusercontent.com/ashrafayman219/rejected-heatmap/refs/heads/main/new.json",
+          url: "https://raw.githubusercontent.com/gulfterminal-GIS/Heat-Map/refs/heads/main/heatmap-data.json",
           title: "البيانات الوصفية",
           popupTemplate: {
             title: "{الامانة}, {البلدية}",
